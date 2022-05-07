@@ -1,3 +1,3 @@
-## Open Basin
+## Welcome
 
-Democratizing Data
+Help us democratize data
