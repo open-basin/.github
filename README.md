@@ -1,1 +1,3 @@
-# .github
+# Open Basin
+
+Democratizing data
