@@ -1,1 +1,1 @@
-#### Currently on Rinkeby
+#### Migrating to Goerli
